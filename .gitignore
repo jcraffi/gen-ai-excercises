@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore results and data folders
+results/
+data/
+
 # Other patterns to ignore
 *.log
 *.tmp
