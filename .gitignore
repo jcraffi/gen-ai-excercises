@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Other patterns to ignore
+*.log
+*.tmp
+__pycache__/
+*.pyc
+
 # C extensions
 *.so
 
